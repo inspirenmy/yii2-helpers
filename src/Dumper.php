@@ -4,7 +4,7 @@
  * Date: 08.07.16
  */
 
-namespace demmonico\helpers;
+namespace inspirenmy\helpers;
 
 use yii\helpers\VarDumper;
 

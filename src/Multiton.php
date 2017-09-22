@@ -4,13 +4,13 @@
  * Date: 08.07.16
  */
 
-namespace demmonico\helpers;
+namespace inspirenmy\helpers;
 
 
 /**
  * Class Multiton. Parent for create own simple multiton
  * @author: dep
- * @package demmonico\helpers
+ * @package inspirenmy\helpers
  */
 abstract class Multiton
 {

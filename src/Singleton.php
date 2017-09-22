@@ -4,13 +4,13 @@
  * Date: 31.05.16
  */
 
-namespace demmonico\helpers;
+namespace inspirenmy\helpers;
 
 
 /**
  * Class Singleton. Parent for create own simple singleton
  * @author: dep
- * @package demmonico\helpers
+ * @package inspirenmy\helpers
  */
 abstract class Singleton
 {

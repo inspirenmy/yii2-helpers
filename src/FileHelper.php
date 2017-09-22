@@ -3,7 +3,7 @@
  * Date: 25.01.16
  */
 
-namespace demmonico\helpers;
+namespace inspirenmy\helpers;
 
 
 /**

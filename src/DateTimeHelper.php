@@ -1,6 +1,6 @@
 <?php
 
-namespace demmonico\helpers;
+namespace inspirenmy\helpers;
 
 use \DateTime;
 use \DateTimeZone;

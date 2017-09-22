@@ -4,7 +4,7 @@
  * Date: 28.01.16
  */
 
-namespace demmonico\helpers;
+namespace inspirenmy\helpers;
 
 use yii\web\NotFoundHttpException;
 
